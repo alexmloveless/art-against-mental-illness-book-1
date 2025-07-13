@@ -1,7 +1,7 @@
 
 *.mp3
 
-# Exclude audio and video files
+# Exclude audio and video files (source material only, not for git)
 *.mp3
 *.wav
 *.flac
@@ -12,3 +12,63 @@
 *.avi
 *.mkv
 *.webm
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+\#*\#
+.#*
+
+# Log files and transcription output
+*.log
+transcription_output.*
+transcription_log_*
+whisper_output.*
+
+# Episode files that don't follow standard naming convention
+# (prevents duplicate transcript files like we just cleaned up)
+Episodes/*/e[0-9]* [!t]*.md
+Episodes/*/[Ee]pisode*.md
+Episodes/*/[Ii]nterview*.md
+Episodes/*/[Tt]ranscription.md
+Episodes/*/[Tt]ranscript_*.md
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
+
+# Python cache (if using Python tools)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Node modules (if using any Node.js tools)
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+dist/
+build/
+*.build/
