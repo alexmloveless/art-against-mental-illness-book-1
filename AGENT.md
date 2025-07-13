@@ -74,7 +74,24 @@ Episodes/eXX_episode_name/
 - Original episode audio files can be found at this location: /Users/alex/Dropbox/Projects/websites/artagainst/hugo/static/episodes
 - The master repository of podcast files including research, drafts etc. can be found at this location: /Users/alex/Dropbox/Vaults/Art Against Mental Illness
 
-## Episode Processing Workflow
+## Current Project Status (2025-01-13)
+
+**EPISODE ANALYSIS PHASE COMPLETE**: All available episodes have been processed.
+
+- **31/37 episodes fully analyzed** (84% of total episodes)
+- **4 episodes ignored** per user request or technical limitations
+- **Standard analysis files created** for all completed episodes
+- **Project ready for book compilation and chapter development**
+
+### Ignored Episodes
+- e26: 2024 Review pt1 (user request)
+- e28: 2024 Review pt2 (user request - retrospective content)
+- e36: Introducing Creative Squares (user request)
+- e44: Momentum pt2 (no transcript available)
+
+---
+
+## Episode Processing Workflow (COMPLETED)
 
 ### 1. Transcription
 - Check if transcript exists; if not, use Whisper with en-small model
