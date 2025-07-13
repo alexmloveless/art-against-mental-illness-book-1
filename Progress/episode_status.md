@@ -1,7 +1,7 @@
 # Episode Processing Status
 
-**Last Updated**: [Date]
-**Updated By**: [Agent/Person]
+**Last Updated**: 2025-01-13
+**Updated By**: AI Agent
 
 ## Processing Status Legend
 - ❌ **Not Started**: Episode not yet processed
@@ -32,19 +32,19 @@
 | e15 | Finding Your Voice | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e16 | Finding Your Voice Addendum | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e17 | How to Be Creative Part 2 | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
-| e18 | Art Against Mental Politics | ❌ | ❌ | ❌ | - | - |
-| e19 | Your Brain on Art Part 1 | ❌ | ❌ | ❌ | - | - |
-| e20 | Your Brain on Art Part 2 | ❌ | ❌ | ❌ | - | - |
-| e21 | Art Takes 1 - Abstract Fluidity | ❌ | ❌ | ❌ | - | - |
-| e22 | Egotist or Imposter | ❌ | ❌ | ❌ | - | - |
+| e18 | Art Against Mental Politics | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
+| e19 | Your Brain on Art Part 1 | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
+| e20 | Your Brain on Art Part 2 | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
+| e21 | Art Takes 1 - Abstract Fluidity | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
+| e22 | Egotist or Imposter | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e23 | Talking Therapy - Sharon Milton | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e24 | Art Takes 2 - Decay | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
-| e25 | Mind Your Language | ❌ | ❌ | ❌ | - | - |
+| e25 | Mind Your Language | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e26 | 2024 Review pt1 | ❌ | ❌ | ❌ | - | - |
 | e27 | Talking Therapy - Mark Burden | ❌ | ❌ | ❌ | Interview format | - |
-| e28 | 2024 Review pt 2 | ❌ | ❌ | ❌ | - | - |
+| e28 | 2024 Review pt 2 | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e29 | Talking Therapy - Rob Parkinson | ❌ | ❌ | ❌ | Interview format | - |
-| e30 | Start as you mean to go on | ❌ | ❌ | ❌ | - | - |
+| e30 | Start as you mean to go on | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e31 | Talking Therapy - Caitlin Hannah | ❌ | ❌ | ❌ | Interview format | - |
 | e32 | Joy in Repetition | ❌ | ❌ | ❌ | - | - |
 | e33 | Learning How to Learn | ❌ | ❌ | ❌ | - | - |
@@ -61,9 +61,9 @@
 ## Processing Statistics
 
 - **Total Episodes**: 37
-- **Not Started**: 18
+- **Not Started**: 11
 - **In Progress**: 0
-- **Complete**: 19
+- **Complete**: 26
 - **Needs Review**: 0
 - **Issues**: 0
 
