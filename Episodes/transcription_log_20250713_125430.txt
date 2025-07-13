@@ -2,3 +2,204 @@ Starting batch transcription at Sun 13 Jul 2025 12:54:30 BST
 Starting transcription of e40_talking_therapy_peter_laisen...
 /Users/alex/opt/miniconda3/envs/enchillama/lib/python3.11/site-packages/whisper/transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
   warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[00:00.000 --> 00:05.000]  Nobody give me sin for this
+[00:06.000 --> 00:10.000]  That's reason why I try both
+[00:13.000 --> 00:20.000]  If all is cold I can see a thousand times all day
+[00:20.000 --> 00:26.000]  Ask against mental illness
+[00:51.000 --> 00:55.000]  The charity is run by a Danish guy who lived in Scotland called Peter Leisen
+[00:55.000 --> 01:00.000]  who also owns a picture house and intends to restore it to its former glory in the coming years
+[01:00.000 --> 01:05.000]  At some point a couple of years ago Peter was on the hunt for people who could help him build this arts charity
+[01:05.000 --> 01:07.000]  and I put my hand up
+[01:07.000 --> 01:11.000]  I've since been on a whirlwind journey that has seen us become collaborators and close friends
+[01:11.000 --> 01:15.000]  and us delivering some stuff that I thought I'd never be able to do
+[01:15.000 --> 01:20.000]  This interview was originally recorded just to get his thoughts down on what the crew was and what it represented
+[01:20.000 --> 01:27.000]  But listening back to this I was blown away by the spirit, optimism and ambition here and I wanted to share it
+[01:27.000 --> 01:30.000]  It's a great interview and not just of local interest
+[01:30.000 --> 01:35.000]  I've been banging on for years now that the antidote to the widespread social divisions that we observe
+[01:35.000 --> 01:39.000]  pretty much everywhere at the moment is community and cooperation
+[01:39.000 --> 01:47.000]  By creating bonds on shared issues and activities we can build bridges between ourselves and those who may have different backgrounds and opinions from us
+[01:47.000 --> 01:52.000]  As a community we can generate optimism and action and work together to fight the ills of society
+[01:52.000 --> 01:57.000]  while also forging lasting friendships and bringing something positive, inclusive and fresh to the world
+[01:57.000 --> 02:05.000]  It could be via sports, caring the community, gardening, gaming, spirituality, inclusivity, the arts or all the above
+[02:05.000 --> 02:10.000]  The point is the community, the relationships and the webs we spin that bind us together
+[02:10.000 --> 02:15.000]  So go out there, find an organisation that suits you and your particular proclivity
+[02:15.000 --> 02:18.000]  and get involved, be it online or in the real world
+[02:18.000 --> 02:22.000]  This is the story behind the community that I found in the words of its founder
+[02:22.000 --> 02:24.000]  I hope you enjoy it
+[02:24.000 --> 02:28.000]  I intend to do a few more episodes on creativity in the community in the coming months
+[02:28.000 --> 02:30.000]  So watch this space
+[02:30.000 --> 02:32.000]  I'll see you soon, bye
+[02:33.000 --> 02:36.000]  I've always driven up and down the high street here
+[02:36.000 --> 02:39.000]  and wondered what this building was all about
+[02:39.000 --> 02:41.000]  It was looking a bit different from anything else
+[02:41.000 --> 02:43.000]  I've always been curious
+[02:43.000 --> 02:51.000]  And then when the for sale sign came up, that was the first time I realised, alright, okay, this is now changing hands
+[02:51.000 --> 02:54.000]  It's always been boarded up for about 10 years
+[02:54.000 --> 02:58.000]  So I've always wondered what was going to happen
+[02:59.000 --> 03:03.000]  The first time I went up for sale, I wasn't in a position to really do anything about it
+[03:03.000 --> 03:10.000]  But I subsequently learned that when I went up for sale and was up for auction sale
+[03:10.000 --> 03:14.000]  On the day of the sale, the building got listed
+[03:14.000 --> 03:22.000]  So a local group of people had canvassed for trying to get the council to list the building
+[03:22.000 --> 03:26.000]  And it was listed on the day of the auction, so the auction sale fell through
+[03:27.000 --> 03:31.000]  Chris, the previous owner, then wondered what to do
+[03:31.000 --> 03:36.000]  And a year later, so he essentially put it back up for auction as a listed building
+[03:36.000 --> 03:41.000]  And that's really when I saw it again, booked a viewing
+[03:41.000 --> 03:44.000]  And I remember it absolutely vividly
+[03:44.000 --> 03:51.000]  Going in and walking up the main staircase, the feature staircase, up into the projection room
+[03:51.000 --> 03:55.000]  And I opened the two doors into the gallery
+[03:55.000 --> 04:00.000]  And I just remember being absolutely blown over
+[04:00.000 --> 04:07.000]  With the fact that this amazing 1926 Art Deco cinema was hidden behind this
+[04:07.000 --> 04:10.000]  To most kind of nondescript frontage hook
+[04:10.000 --> 04:15.000]  But the amazing thing is, it's been in the same family for 60 years
+[04:15.000 --> 04:17.000]  It has started to dilapidated somewhat
+[04:17.000 --> 04:22.000]  But it has been looked after, and there's very little we can't see
+[04:22.000 --> 04:30.000]  The original bones of the building, the original colours, the original carvings, features, light fittings
+[04:30.000 --> 04:32.000]  It's all there
+[04:32.000 --> 04:39.000]  So I just remember looking and thinking, oh my god, it's like stepping 100 years back in time
+[04:39.000 --> 04:42.000]  And I really got that feeling up my spine
+[04:42.000 --> 04:46.000]  And that's when I realised that I should try to preserve this
+[04:46.000 --> 04:51.000]  I put my bed in for the auction, and I won the auction
+[04:51.000 --> 04:58.000]  So I was the happy owner of a 1926 Art Deco small town cinema in Oxford Island
+[04:58.000 --> 05:01.000]  So that's really where the journey began
+[05:01.000 --> 05:03.000]  So the first thing you do when you suddenly have a building like that
+[05:03.000 --> 05:06.000]  And you start to say, what can we do?
+[05:06.000 --> 05:08.000]  And you start a feasibility study
+[05:08.000 --> 05:13.000]  And that's really when we realise the history of the building
+[05:13.000 --> 05:18.000]  So if I take you back to 1926 when it was built
+[05:18.000 --> 05:25.000]  So it was a cinematic kind of entrepreneurial time
+[05:25.000 --> 05:32.000]  More and more business people realised there was a market for purpose built picture houses before then
+[05:32.000 --> 05:40.000]  There had been cinema in community halls, and scouts halls, and churches and so on
+[05:40.000 --> 05:42.000]  But there wasn't really purpose built
+[05:42.000 --> 05:45.000]  So it was built with a couple of retail units
+[05:45.000 --> 05:47.000]  It had a tea room upstairs
+[05:47.000 --> 05:52.000]  And you'll see in some of the press, it was like a palace
+[05:52.000 --> 05:53.000]  They described it as a palace
+[05:53.000 --> 05:59.000]  And remember this was Art Deco, it was like post international exhibition in Paris
+[05:59.000 --> 06:04.000]  So it wasn't actually like a modern cinema, which is essentially a black box
+[06:05.000 --> 06:10.000]  This was a cinema in pastel colours and Art Deco design
+[06:10.000 --> 06:14.000]  And a cream carved ceiling in Preston
+[06:14.000 --> 06:18.000]  Which is like an 1860 American kind of design
+[06:18.000 --> 06:23.000]  It very quickly became the hub of the community
+[06:23.000 --> 06:27.000]  That's where people met, that's where people socialised
+[06:27.000 --> 06:29.000]  They got the news from the cinema
+[06:29.000 --> 06:34.000]  And it was genuinely, genuinely like an anchor point for the community
+[06:34.000 --> 06:38.000]  So back in 1926, it was silent movies
+[06:38.000 --> 06:44.000]  So the first film that was shown in the picture house were the Gold Rush with Charlie Chaplin
+[06:44.000 --> 06:49.000]  And there is a musicians' pick in the cinema
+[06:49.000 --> 06:55.000]  We don't quite know if there was actually musicians or piano players sitting playing down there
+[06:56.000 --> 07:04.000]  But back in the 1920s, the first period of the cinema's life would have been silent movies with live music
+[07:04.000 --> 07:07.000]  People would come in, they would get the news
+[07:07.000 --> 07:11.000]  They would sing the national anthem at the end of the shows
+[07:11.000 --> 07:14.000]  People would sneak out quickly to avoid having to sing it
+[07:14.000 --> 07:19.000]  And then in the early 30s, and if you look in the cinema
+[07:19.000 --> 07:23.000]  You'll see there's a sound chamber behind the original screen
+[07:23.000 --> 07:27.000]  That wasn't there in the beginning, so that was in the early 1930s
+[07:27.000 --> 07:31.000]  Where the speakeas suddenly became a thing
+[07:31.000 --> 07:33.000]  And obviously colour as well
+[07:33.000 --> 07:38.000]  So colour and sound were introduced over a period of time
+[07:38.000 --> 07:42.000]  And being a new cinema, obviously you had to upgrade
+[07:42.000 --> 07:50.000]  So in the early 1930s, the Octolara cinema became a speakeas cinema
+[07:50.000 --> 07:57.000]  And then the following couple of decades were really the prime for cinema ever
+[07:57.000 --> 08:00.000]  It was the boom of Hollywood
+[08:00.000 --> 08:03.000]  It was just incredible, the amount of films that were made
+[08:03.000 --> 08:12.000]  And in 1946, in the UK, 32 million people went to the cinema every single week
+[08:12.000 --> 08:19.000]  So if you take the elderly and the babies out of that total population number
+[08:19.000 --> 08:25.000]  And see, actually, almost a full population went to the cinema every single week
+[08:25.000 --> 08:27.000]  Which is just incredible
+[08:27.000 --> 08:30.000]  Well this was before common ownership of televisions, right
+[08:30.000 --> 08:33.000]  People would be able to sit at home with the wireless
+[08:33.000 --> 08:35.000]  But they couldn't watch things
+[08:35.000 --> 08:38.000]  This was the only place they could go and watch the things that were coming out of Hollywood
+[08:38.000 --> 08:40.000]  Absolutely, I mean, mainly Hollywood
+[08:40.000 --> 08:44.000]  But obviously, I mentioned Hollywood because it was the heyday of Hollywood
+[08:44.000 --> 08:49.000]  But there was actually booming cinema and film production everywhere
+[08:49.000 --> 08:52.000]  It was worldwide at sorts
+[08:52.000 --> 08:55.000]  But you're actually right, and to be honest
+[08:55.000 --> 09:04.000]  The TV was what eventually had to kind of affect all the cinemas
+[09:04.000 --> 09:09.000]  So in the Octolara Picture House, or the Regal as it was called at that point
+[09:09.000 --> 09:15.000]  Was sold to the Antiques family in 1962
+[09:15.000 --> 09:21.000]  And that was as a direct result of the TV coming into more and more homes
+[09:21.000 --> 09:24.000]  Numbers of people going to the cinema was reducing
+[09:24.000 --> 09:28.000]  And all cinemas had to kind of figure out what to do next
+[09:28.000 --> 09:32.000]  Some cinema survived and continued as cinemas
+[09:32.000 --> 09:35.000]  Some cinemas were converted to bingo halls
+[09:35.000 --> 09:40.000]  If you look across the country, if you go into a bingo hall
+[09:40.000 --> 09:43.000]  It's very likely there is a false ceiling
+[09:43.000 --> 09:45.000]  And if you pop your head through the false ceiling
+[09:45.000 --> 09:48.000]  Above that, you'll probably see an old cinema
+[09:48.000 --> 09:53.000]  So that was how most cinemas were converted into bingo halls
+[09:53.000 --> 09:55.000]  For this particular one in Octolara
+[09:55.000 --> 09:58.000]  There was a survey of the local population
+[09:58.000 --> 10:03.000]  And the rumor has that actually it was really in favor of keeping the cinema
+[10:03.000 --> 10:05.000]  Or having a bingo hall
+[10:05.000 --> 10:11.000]  But the Lord promised we're having none of the idea of having a bingo hall in Octolara
+[10:11.000 --> 10:13.000]  And so it was kind of shelved
+[10:13.000 --> 10:17.000]  So the thing I haven't really talked about is why build it
+[10:17.000 --> 10:22.000]  Because it's lovely to preserve an amazing old 1926 cinema
+[10:22.000 --> 10:26.000]  And to be honest, that is the romance of this project
+[10:26.000 --> 10:31.000]  To be able to restore something back to exactly how it was
+[10:31.000 --> 10:33.000]  For the original purpose
+[10:33.000 --> 10:36.000]  And we can do that because we can see everything that was there
+[10:36.000 --> 10:38.000]  So that is amazing
+[10:38.000 --> 10:41.000]  But it's only amazing if it does something for the local community
+[10:41.000 --> 10:43.000]  And the people that it touches
+[10:43.000 --> 10:47.000]  So we set up the Octolara picture house crew
+[10:47.000 --> 10:51.000]  Which is essentially going to be the charity that is going to run this place
+[10:51.000 --> 10:55.000]  And the idea is that when we get the building refurbished
+[10:55.000 --> 10:58.000]  And we run it as a venue
+[10:58.000 --> 11:02.000]  An amazing historic venue with two auditoriums
+[11:02.000 --> 11:06.000]  A restaurant, a bar, a cafe, two retail units
+[11:06.000 --> 11:10.000]  An art library and multi-use space towards the back
+[11:10.000 --> 11:15.000]  Then all the profits from this place will go into outreach work
+[11:15.000 --> 11:17.000]  And outreach work for what?
+[11:17.000 --> 11:22.000]  Well, the Octolara picture house crew
+[11:22.000 --> 11:28.000]  Is a charity that wants to support anybody
+[11:28.000 --> 11:32.000]  Who needs or could benefit from a creative journey
+[11:32.000 --> 11:35.000]  And a creative journey can really be anything
+[11:35.000 --> 11:40.000]  Anything that supports that person
+[11:40.000 --> 11:43.000]  In terms of expressing themselves
+[11:43.000 --> 11:46.000]  Finding like-minded people
+[11:46.000 --> 11:50.000]  Getting camaraderies or new friends
+[11:50.000 --> 11:53.000]  A sense of belonging
+[11:53.000 --> 11:58.000]  And essentially also an opportunity to showcase what they do
+[11:58.000 --> 12:01.000]  Some people have very hidden talents
+[12:01.000 --> 12:05.000]  Sometimes there's prohibitors to people
+[12:05.000 --> 12:08.000]  Starting their creative journey in the first place
+[12:08.000 --> 12:12.000]  And actually just beginning to think about it or joining in
+[12:12.000 --> 12:17.000]  And suddenly it can go from strength to strength
+[12:17.000 --> 12:20.000]  And they can find tremendous pleasure
+[12:20.000 --> 12:23.000]  Some of it is about the outputs
+[12:23.000 --> 12:27.000]  It's lovely to obviously write a piece of poetry
+[12:27.000 --> 12:29.000]  And recite it in front of other people
+[12:29.000 --> 12:32.000]  Or it could be that somebody paints a picture
+[12:32.000 --> 12:37.000]  And again is brave enough to put it out there and get critiqued
+[12:37.000 --> 12:41.000]  But quite often it's being part of the process
+[12:41.000 --> 12:43.000]  Of actually creating the artwork in the first place
+[12:43.000 --> 12:46.000]  Creating the piece of poetry
+[12:46.000 --> 12:48.000]  Making a short film
+[12:48.000 --> 12:49.000]  An animation film
+[12:49.000 --> 12:51.000]  Or maybe carve a piece of wood
+[12:51.000 --> 12:53.000]  Or anything really
+[12:53.000 --> 12:56.000]  The latest group of creatives we have
+[12:56.000 --> 13:00.000]  Is a group that do miniature painting of warhammer
+[13:00.000 --> 13:02.000]  And dungeons and dragons
+[13:02.000 --> 13:04.000]  Mini figurines
+[13:04.000 --> 13:07.000]  And again that's a completely different kind of hobby
+[13:07.000 --> 13:09.000]  From some of the other things we did
+[13:09.000 --> 13:12.000]  But it's a lovely addition to what we do
+[13:13.000 --> 13:18.000]  So you take a very broad view of creativity
+[13:18.000 --> 13:21.000]  And so you're effectively
+[13:21.000 --> 13:27.000]  I mean go into what this practically looks like in a little bit
+[13:27.000 --> 13:31.000]  But effectively you're looking for people who just want to do stuff
+[13:31.000 --> 13:33.000]  So it could be ballet
+[13:33.000 --> 13:36.000]  It could be we've got obviously already got performance
+[13:36.000 --> 13:38.000]  But you've got writers
+[13:38.000 --> 13:40.000]  But pottery I don't know
+[13:40.000 --> 13:41.000]  Just chair making
+[13:41.000 --> 13:42.000]  I'm looking at a chair
+[13:42.000 --> 13:48.000]  So the point here is to support anyone who's doing anything creative
+[13:48.000 --> 13:50.000]  Regardless of their purpose
+[13:50.000 --> 13:53.000]  And to give them support on a platform
+[13:53.000 --> 13:57.000]  To either meet other people
+[13:57.000 --> 13:59.000]  To make their creations
+[13:59.000 --> 14:00.000]  Support them to make their creations
