@@ -9,6 +9,7 @@
 - ✅ **Complete**: All analysis files created and committed
 - 🔍 **Needs Review**: Complete but requires Alex's review
 - ⚠️ **Issues**: Problems encountered, needs attention
+- 🚫 **Ignored**: Episode excluded from book project
 
 ---
 
@@ -40,9 +41,9 @@
 | e23 | Talking Therapy - Sharon Milton | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e24 | Art Takes 2 - Decay | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e25 | Mind Your Language | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
-| e26 | 2024 Review pt1 | ❌ | ❌ | ❌ | - | - |
+| e26 | 2024 Review pt1 | 🚫 | 🚫 | 🚫 | IGNORED: User request | 2025-01-13 |
 | e27 | Talking Therapy - Mark Burden | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
-| e28 | 2024 Review pt 2 | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
+| e28 | 2024 Review pt 2 | 🚫 | 🚫 | 🚫 | IGNORED: 2024 retrospective (user request) | 2025-01-13 |
 | e29 | Talking Therapy - Rob Parkinson | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e30 | Start as you mean to go on | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e31 | Talking Therapy - Caitlin Hannah | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
@@ -50,31 +51,51 @@
 | e33 | Learning How to Learn | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e34 | Talking Therapy - Jen DeHaan | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e35 | Your Attention Please | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
-| e36 | Introducing Creative Squares | ❌ | ❌ | ❌ | - | - |
+| e36 | Introducing Creative Squares | 🚫 | 🚫 | 🚫 | IGNORED: User request | 2025-01-13 |
 | e37 | You Are a Fractal Pattern | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e38 | Sharing is Caring...Amen, Brother! | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e41 | Momentum pt1 | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
-| e44 | Momentum pt2 | ❌ | ❌ | ❌ | - | - |
+| e44 | Momentum pt2 | 🚫 | 🚫 | 🚫 | IGNORED: No transcript available | 2025-01-13 |
 
 ---
 
 ## Processing Statistics
 
 - **Total Episodes**: 37
-- **Not Started**: 4
+- **Not Started**: 0
 - **In Progress**: 0
-- **Complete**: 33
+- **Complete**: 31
+- **Ignored**: 4
 - **Needs Review**: 0
 - **Issues**: 0
 
 ---
 
-## Current Priorities
+## Ignored Episodes
 
-### Next Episodes to Process
-1. **e01_beginnings** - Foundation episode, good starting point
-2. **e02_process** - Core theme episode
-3. **e05_space** - Well-structured content for book
+### Episodes Excluded from Book Project
+
+| Episode | Title | Reason for Exclusion | Date Ignored |
+|---------|-------|---------------------|--------------|
+| e26 | 2024 Review pt1 | User request - not suitable for book | 2025-01-13 |
+| e28 | 2024 Review pt2 | User request - 2024 retrospective content | 2025-01-13 |
+| e36 | Introducing Creative Squares | User request - not suitable for book | 2025-01-13 |
+| e44 | Momentum pt2 | No transcript available | 2025-01-13 |
+
+**Notes:**
+- e26 & e36: User explicitly requested these episodes be ignored during processing
+- e28: Part of 2024 retrospective series - user requested all retrospectives be excluded
+- e44: No transcript file found in episode directory for analysis
+- Analysis files for e28 were completed but episode marked as ignored per user request
+
+---
+
+## Project Completion Status
+
+**EPISODE ANALYSIS COMPLETE**: All available episodes have been processed.
+
+31/37 episodes fully analyzed with 4 episodes ignored per user request or technical limitations.
+Project ready for book compilation and chapter development phase.
 
 ### Interview Episodes (Special Handling)
 - e23, e27, e29, e31, e34 are interview format
