@@ -1,2 +1,14 @@
 
 *.mp3
+
+# Exclude audio and video files
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
