@@ -70,6 +70,10 @@ Episodes/eXX_episode_name/
 - `Drafts/`: Chapter drafts and compiled versions
 - `Tools/`: Scripts and utilities
 
+### Other locations
+- Original episode audio files can be found at this location: /Users/alex/Dropbox/Projects/websites/artagainst/hugo/static/episodes
+- The master repository of podcast files including research, drafts etc. can be found at this location: /Users/alex/Dropbox/Vaults/Art Against Mental Illness
+
 ## Episode Processing Workflow
 
 ### 1. Transcription
