@@ -27,11 +27,11 @@
 | e10 | Suffering for Art | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e11 | Transitions | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e12 | How to Creative Part 1 | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
-| e13 | Fighting Back | ❌ | ❌ | ❌ | - | - |
-| e14 | Overthinking | ❌ | ❌ | ❌ | - | - |
-| e15 | Finding Your Voice | ❌ | ❌ | ❌ | - | - |
-| e16 | Finding Your Voice Addendum | ❌ | ❌ | ❌ | - | - |
-| e17 | How to Be Creative Part 2 | ❌ | ❌ | ❌ | - | - |
+| e13 | Fighting Back | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
+| e14 | Overthinking | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
+| e15 | Finding Your Voice | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
+| e16 | Finding Your Voice Addendum | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
+| e17 | How to Be Creative Part 2 | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e18 | Art Against Mental Politics | ❌ | ❌ | ❌ | - | - |
 | e19 | Your Brain on Art Part 1 | ❌ | ❌ | ❌ | - | - |
 | e20 | Your Brain on Art Part 2 | ❌ | ❌ | ❌ | - | - |
@@ -61,9 +61,9 @@
 ## Processing Statistics
 
 - **Total Episodes**: 37
-- **Not Started**: 24
+- **Not Started**: 19
 - **In Progress**: 0
-- **Complete**: 13
+- **Complete**: 18
 - **Needs Review**: 0
 - **Issues**: 0
 
