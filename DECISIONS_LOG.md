@@ -34,6 +34,11 @@ This file records all explicit decisions made by Alex (the author) during the bo
 - **Rationale**: Complete audit trail and decision history
 - **Status**: Approved - this log file created to fulfill this requirement
 
+### Remote Repository Setup
+- **Decision**: Add remote repository https://github.com/alexmloveless/art-against-mental-illness-book-1.git
+- **Action**: Remote added successfully, push requires authentication setup
+- **Status**: Remote configured, push pending authentication
+
 ---
 
 *This log will be updated with each interaction and decision made during the project.*
