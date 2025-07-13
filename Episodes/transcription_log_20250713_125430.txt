@@ -1,0 +1,4 @@
+Starting batch transcription at Sun 13 Jul 2025 12:54:30 BST
+Starting transcription of e40_talking_therapy_peter_laisen...
+/Users/alex/opt/miniconda3/envs/enchillama/lib/python3.11/site-packages/whisper/transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
