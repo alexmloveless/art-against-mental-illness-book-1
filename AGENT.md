@@ -175,7 +175,20 @@ Store in `References/bibliography.md` with consistent formatting for each source
 ## Common Commands
 
 ### Build/Test Commands
-[To be added based on project needs]
+```bash
+# Environment setup and activation
+conda activate enchillama
+
+# Transcription (single episode)
+whisper --model small.en --output_format txt --language en "episode_name.mp3"
+
+# Batch transcription (run from Episodes directory)
+./transcribe_missing.sh
+
+# Check transcription status
+ls -la */transcript.md
+ls -la */*transcript.md
+```
 
 ### Transcription
 ```bash
