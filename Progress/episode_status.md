@@ -41,19 +41,19 @@
 | e24 | Art Takes 2 - Decay | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e25 | Mind Your Language | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e26 | 2024 Review pt1 | ❌ | ❌ | ❌ | - | - |
-| e27 | Talking Therapy - Mark Burden | ❌ | ❌ | ❌ | Interview format | - |
+| e27 | Talking Therapy - Mark Burden | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e28 | 2024 Review pt 2 | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
-| e29 | Talking Therapy - Rob Parkinson | ❌ | ❌ | ❌ | Interview format | - |
+| e29 | Talking Therapy - Rob Parkinson | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e30 | Start as you mean to go on | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
-| e31 | Talking Therapy - Caitlin Hannah | ❌ | ❌ | ❌ | Interview format | - |
-| e32 | Joy in Repetition | ❌ | ❌ | ❌ | - | - |
-| e33 | Learning How to Learn | ❌ | ❌ | ❌ | - | - |
-| e34 | Talking Therapy - Jen DeHaan | ❌ | ❌ | ❌ | Interview format | - |
+| e31 | Talking Therapy - Caitlin Hannah | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
+| e32 | Joy in Repetition | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
+| e33 | Learning How to Learn | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
+| e34 | Talking Therapy - Jen DeHaan | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e35 | Your Attention Please | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e36 | Introducing Creative Squares | ❌ | ❌ | ❌ | - | - |
-| e37 | You Are a Fractal Pattern | ❌ | ❌ | ❌ | - | - |
-| e38 | Sharing is Caring...Amen, Brother! | ❌ | ❌ | ❌ | - | - |
-| e41 | Momentum pt1 | ❌ | ❌ | ❌ | - | - |
+| e37 | You Are a Fractal Pattern | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
+| e38 | Sharing is Caring...Amen, Brother! | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
+| e41 | Momentum pt1 | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e44 | Momentum pt2 | ❌ | ❌ | ❌ | - | - |
 
 ---
@@ -61,9 +61,9 @@
 ## Processing Statistics
 
 - **Total Episodes**: 37
-- **Not Started**: 11
+- **Not Started**: 4
 - **In Progress**: 0
-- **Complete**: 26
+- **Complete**: 33
 - **Needs Review**: 0
 - **Issues**: 0
 
