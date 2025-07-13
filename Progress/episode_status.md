@@ -38,7 +38,7 @@
 | e21 | Art Takes 1 - Abstract Fluidity | ❌ | ❌ | ❌ | - | - |
 | e22 | Egotist or Imposter | ❌ | ❌ | ❌ | - | - |
 | e23 | Talking Therapy - Sharon Milton | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
-| e24 | Art Takes 2 - Decay | ❌ | ❌ | ❌ | - | - |
+| e24 | Art Takes 2 - Decay | ✅ | ✅ | ✅ | Complete analysis | 2025-01-13 |
 | e25 | Mind Your Language | ❌ | ❌ | ❌ | - | - |
 | e26 | 2024 Review pt1 | ❌ | ❌ | ❌ | - | - |
 | e27 | Talking Therapy - Mark Burden | ❌ | ❌ | ❌ | Interview format | - |
@@ -61,9 +61,9 @@
 ## Processing Statistics
 
 - **Total Episodes**: 37
-- **Not Started**: 19
+- **Not Started**: 18
 - **In Progress**: 0
-- **Complete**: 18
+- **Complete**: 19
 - **Needs Review**: 0
 - **Issues**: 0
 
