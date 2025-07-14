@@ -30,11 +30,23 @@ pip install openai-whisper
 ```
 
 ### Bot Invocation System
-The project includes specialized AI bots for different editorial tasks:
+The project includes specialized AI bots for different editorial tasks. Use these commands to activate specific bots:
+
+**Quick Commands:**
 - `invoke` - List all available bots
 - `invoke editor` - Show editor modes
 - `invoke exec editor` - Activate managerial editor (structure, strategy)
 - `invoke copy editor` - Activate copy editor (grammar, style)
+- `invoke doc` - Activate documentation bot
+- `invoke help` - Show all commands and enter chat mode
+- `invoke help [topic]` - Get specific help on topic
+
+**Available Bots:**
+- **Editor Bot**: AI Publishing Editor with managerial and copy editing modes
+- **Documentation Bot**: Checks docs for accuracy, clarity, and currency
+- **Help Bot**: Conversational assistance for navigating the project
+
+When you use invoke commands, you will read the appropriate bot prompt from `Bots/` directory and assume that persona. Each bot has specific startup protocols and capabilities.
 
 See `Bots/README.md` for complete documentation and adding new bots.
 
