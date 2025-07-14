@@ -29,6 +29,15 @@ conda activate [environment_name]
 pip install openai-whisper
 ```
 
+### Bot Invocation System
+The project includes specialized AI bots for different editorial tasks:
+- `invoke` - List all available bots
+- `invoke editor` - Show editor modes
+- `invoke exec editor` - Activate managerial editor (structure, strategy)
+- `invoke copy editor` - Activate copy editor (grammar, style)
+
+See `Bots/README.md` for complete documentation and adding new bots.
+
 ### Git Workflow
 - Work on main branch for normal tasks
 - Create feature branches for large changes affecting multiple files
